@@ -1,4 +1,4 @@
-# List of numbers on Recamán's sequence
+# List of numbers of Recamán's sequence
 
 
 ## What is this?
