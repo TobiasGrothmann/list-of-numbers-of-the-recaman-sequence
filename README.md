@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This repo contains a list of a lot of numbers of Recamán's sequence. The sequence is computed using the following rules:
+This repository contains a list of a lot of numbers of Recamán's sequence. The sequence is computed using the following rules:
 
 * start at 0
 * your jump distance increases by 1 every iteration
@@ -31,7 +31,7 @@ After 100k iterations the smallest missing number is 1355. You will find that it
 
 Yeah, don't ask. I guess this counts as a hobby of some sort.
 
-Does anyone really need this? - I think not.
+Does anyone really need this repository? - I think not.
 
 -----
 
