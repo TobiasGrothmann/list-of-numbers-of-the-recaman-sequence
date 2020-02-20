@@ -22,9 +22,9 @@ This results in the following sequence:
 
 ## some facts
 
-If you calculate the first 1k numbers of the sequence, you still won't have visited the number 19. You will also have missed 61, 76, 133 and a lot of others. The number 19 is only visited after 99735 iterations.
+If you calculate the first 1k numbers of the sequence, you still won't have visited the number 19. You will also have missed 61, 76, 133 and a lot of others. The number 19 is only visited after 99,735 iterations.
 
-After 100k iterations the smallest missing number is 1355. You will find that it isn't even in my list of the first 100 million numbers. It's also missing from the list of the first 500 million nubmers because 1355 only appears at iteration 325.374.625.245 (see https://oeis.org/A057167/b057167.txt).
+After 100k iterations the smallest missing number is 1355. You will find that it isn't even in my list of the first 100 million numbers. It's also missing from the list of the first 500 million nubmers because 1355 only appears at iteration 325,374,625,245 (see https://oeis.org/A057167/b057167.txt).
 
 
 ## Why?
